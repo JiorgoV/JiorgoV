@@ -22,7 +22,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JiorgoV/JiorgoV/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/JiorgoV/JiorgoV/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
